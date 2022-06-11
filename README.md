@@ -2,7 +2,7 @@
 GyroPalm Kinetic is a Wireless Force Transfer Mechanism device that enables users to discreetly manipulate objects at high velocities. This mechanism can be used in Escape Rooms, magic shows, and games to provide an interactive Sci-Fi experience.
 
 ## Inspiration
-Various Sci-Fi movies such as Star Wars, Iron Man, Stranger Things, Kung Fu Hustle, etc demonstrate one or more characters having extraordinary capabilities to manipulate physical objects with the power of their mind. Typically, such telekinetic actions are conveyed to the audience by the actor performing a unique "gesture" such as "thrusting" their palm in the air in the linear motion that they want an object to go. 
+Various Sci-Fi movies such as Star Wars, Iron Man, Stranger Things, Kung Fu Hustle, etc demonstrate one or more characters having extraordinary capabilities to manipulate physical objects with the power of their mind. Typically, such telekinetic actions are conveyed to the audience by the actor performing a unique "gesture" such as "thrusting" their palm in the air in the linear motion that they want an object to go. Thanks to GyroPalm's patented technology, many of these effects can be achieved in real life.
 
 In **Star Wars**, many refer to these abilities as the *Force* (i.e. "May the Force be with you"). 
 
